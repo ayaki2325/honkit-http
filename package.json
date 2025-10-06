@@ -19,6 +19,12 @@
   },
   "homepage": "https://github.com/ayaki2325/honkit-http#readme",
   "devDependencies": {
-    "honkit": "^6.1.4"
+    "gitbook-plugin-anchors": "^0.7.1",
+    "gitbook-plugin-collapsible-chapters": "^0.1.8",
+    "gitbook-plugin-hide-published-with": "^0.0.1",
+    "gitbook-plugin-hints": "^1.0.2",
+    "gitbook-plugin-search-pro": "^2.0.2",
+    "honkit": "^6.1.4",
+    "honkit-plugin-mermaid": "^0.1.4"
   }
 }

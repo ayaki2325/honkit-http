@@ -1,0 +1,12 @@
+{
+    "title": "バックエンドエンジニアのためのHTTP",
+    "language": "ja",
+    "plugins": [
+        "anchors",
+        "collapsible-chapters",
+        "hide-published-with",
+        "hints",
+        "mermaid",
+        "-lunr", "-search", "search-pro"
+    ]
+}
