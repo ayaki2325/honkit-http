@@ -3,9 +3,9 @@
 * [はじめに](README.md)
 * [HTTPとは](definition.md)
 * [URI](uri.md)
-* [HTTPメッセージ](http-message/README.md)
-  * [リクエストメッセージ](http-message/request-message.md)
-  * [レスポンスメッセージ](http-message/response-message.md)
+* HTTPメッセージ
+  * リクエストメッセージ
+  * レスポンスメッセージ
 * HTTPメソッド
   * GET
   * POST
